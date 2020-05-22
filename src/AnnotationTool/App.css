@@ -1,0 +1,29 @@
+#app {
+    border: 1px solid black;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    cursor: crosshair;
+}
+
+.spa {
+	margin-left: 1%;
+}
+
+#annotate {
+	border: 1px solid;
+	border-radius: 25px;
+	margin-right: 0px;
+    overflow: hidden;
+    margin-left: 0.75%;
+}
+
+.ann {
+	justify-content: center;
+	background-color: turquoise;
+}
+
+.fieldClass{
+    display: block;
+    margin: 2px auto;
+}
